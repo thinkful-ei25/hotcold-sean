@@ -4,6 +4,7 @@ import './index.css';
 import HotAndCold from './HotAndCold';
 import * as serviceWorker from './serviceWorker';
 
+
 ReactDOM.render(<HotAndCold />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
